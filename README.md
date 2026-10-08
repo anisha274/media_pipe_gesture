@@ -3,6 +3,8 @@
 Real-time hand gesture recognition system designed for autonomous cargo robots using Google MediaPipe Tasks Vision API and OpenCV.
 This module allows a robot or automated system to process camera inputs in real time, evaluate human hand gestures, and trigger high-level operational commands (`STOP` vs `MOVE`).
 
+https://github.com/user-attachments/assets/ab55961d-a682-420a-81d1-3fb7209399ab
+
 ## Features
 
 - **Cross-Platform Compatibility:** Runs seamlessly on macOS (Apple Silicon / Intel), Linux, and Windows.
